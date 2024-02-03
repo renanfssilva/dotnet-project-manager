@@ -1,7 +1,7 @@
 # .NET Project Manager
 
 ## Description
-Develop a project and task management system that encompasses all the points outlined in the .NET Developer Roadmap 2024. The system will allow users to create, view, edit, and manage projects and tasks, applying best practices and technologies from the .NET ecosystem. 
+Project and task management system that encompasses all the points outlined in the .NET Developer Roadmap 2024. The system will allow users to create, view, edit, and manage projects and tasks, applying best practices and technologies from the .NET ecosystem. 
 
 The project covers various aspects of .NET development, including C#, ASP.NET Core, client-side .NET technologies, databases, ORM, communication, observability, containerization, cloud services, continuous integration & delivery, and .NET libraries.
 
